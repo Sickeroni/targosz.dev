@@ -3,7 +3,7 @@ title: Sickeroni
 subtitle: Embedded Developer for fun & life
 email: paultargosz86@gmail.com
 description: Welcome to my world. I have cookies, template meta programming <br/>and bare metal software in modern C ++
-baseurl:  # the subpath of your site, e.g. /blog
+#baseurl:  # the subpath of your site, e.g. /blog
 #url: "https://targosz.dev" # the base hostname & protocol for your site
 author:
 # street_address: 1234 Somewhere Road
