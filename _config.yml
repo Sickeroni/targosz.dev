@@ -1,8 +1,8 @@
 # site settings
-title: Targosz.dev
+title: TARGOSZ.DEV
 subtitle: Embedded Developer for fun & life
-email: paultargosz86@gmail.com
-description: Welcome to my world. I have cookies, template meta programming <br/>and bare metal software in modern C ++
+email: paul@targosz.dev
+description: Welcome to my world. I have cookies, template meta programming <br/>and bare metal software in modern C++
 #baseurl:  # the subpath of your site, e.g. /blog
 #url: "https://targosz.dev" # the base hostname & protocol for your site
 author:
@@ -24,11 +24,12 @@ github_url: https://github.com/Sickeroni
 # gitlab_url: https://gitlab.com/u/andrewbanchich
 # googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://www.instagram.com/sickeroni/
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/paul-targosz/
 # pinterest_url:
 # slack_url:
 twitter_url: https://twitter.com/sickeroni
 
+xing_url: https://www.xing.com/profile/Paul_Targosz
 # build settings
 markdown: kramdown
 
